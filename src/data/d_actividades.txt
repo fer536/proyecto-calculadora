@@ -1,0 +1,2 @@
+Operaciones iniciales
+8+8 = 16.0
